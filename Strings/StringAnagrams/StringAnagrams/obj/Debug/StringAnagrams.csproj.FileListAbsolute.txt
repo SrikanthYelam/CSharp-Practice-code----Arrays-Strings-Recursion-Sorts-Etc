@@ -1,0 +1,8 @@
+C:\Users\AnilKumar\Desktop\StringAnagrams\StringAnagrams\bin\Debug\StringAnagrams.exe.config
+C:\Users\AnilKumar\Desktop\StringAnagrams\StringAnagrams\bin\Debug\StringAnagrams.exe
+C:\Users\AnilKumar\Desktop\StringAnagrams\StringAnagrams\bin\Debug\StringAnagrams.pdb
+C:\Users\AnilKumar\Desktop\StringAnagrams\StringAnagrams\obj\Debug\StringAnagrams.exe
+C:\Users\AnilKumar\Desktop\StringAnagrams\StringAnagrams\obj\Debug\StringAnagrams.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringAnagrams\StringAnagrams\bin\Debug\StringAnagrams.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringAnagrams\StringAnagrams\obj\Debug\StringAnagrams.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringAnagrams\StringAnagrams\obj\Debug\StringAnagrams.pdb

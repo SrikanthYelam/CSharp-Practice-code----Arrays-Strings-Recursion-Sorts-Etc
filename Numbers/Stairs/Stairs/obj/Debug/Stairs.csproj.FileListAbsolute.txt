@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\bin\Debug\Stairs.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\bin\Debug\Stairs.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\bin\Debug\Stairs.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\obj\Debug\Stairs.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\obj\Debug\Stairs.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Stairs\Stairs\obj\Debug\Stairs.pdb

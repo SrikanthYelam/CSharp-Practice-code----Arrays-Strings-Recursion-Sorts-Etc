@@ -1,0 +1,8 @@
+C:\Users\AnilKumar\Desktop\StringReversion\StringReversion\bin\Debug\StringReversion.exe.config
+C:\Users\AnilKumar\Desktop\StringReversion\StringReversion\bin\Debug\StringReversion.exe
+C:\Users\AnilKumar\Desktop\StringReversion\StringReversion\bin\Debug\StringReversion.pdb
+C:\Users\AnilKumar\Desktop\StringReversion\StringReversion\obj\Debug\StringReversion.exe
+C:\Users\AnilKumar\Desktop\StringReversion\StringReversion\obj\Debug\StringReversion.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReversion\StringReversion\bin\Debug\StringReversion.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReversion\StringReversion\obj\Debug\StringReversion.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReversion\StringReversion\obj\Debug\StringReversion.pdb

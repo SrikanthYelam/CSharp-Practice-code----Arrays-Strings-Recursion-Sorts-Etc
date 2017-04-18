@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReformatting\StringReformatting\bin\Debug\StringReformatting.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReformatting\StringReformatting\bin\Debug\StringReformatting.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReformatting\StringReformatting\obj\Debug\StringReformatting.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReformatting\StringReformatting\obj\Debug\StringReformatting.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\StringReformatting\StringReformatting\obj\Debug\StringReformatting.pdb

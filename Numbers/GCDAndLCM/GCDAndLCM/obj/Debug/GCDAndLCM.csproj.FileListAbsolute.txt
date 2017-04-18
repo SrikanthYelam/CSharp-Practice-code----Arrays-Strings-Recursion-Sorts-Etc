@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\bin\Debug\GCDAndLCM.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\bin\Debug\GCDAndLCM.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\bin\Debug\GCDAndLCM.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\obj\Debug\GCDAndLCM.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\obj\Debug\GCDAndLCM.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\GCDAndLCM\GCDAndLCM\obj\Debug\GCDAndLCM.pdb

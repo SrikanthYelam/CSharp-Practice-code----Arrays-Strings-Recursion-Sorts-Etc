@@ -1,0 +1,8 @@
+C:\Users\AnilKumar\Desktop\RemoveSpaces\RemoveSpaces\bin\Debug\RemoveSpaces.exe.config
+C:\Users\AnilKumar\Desktop\RemoveSpaces\RemoveSpaces\bin\Debug\RemoveSpaces.exe
+C:\Users\AnilKumar\Desktop\RemoveSpaces\RemoveSpaces\bin\Debug\RemoveSpaces.pdb
+C:\Users\AnilKumar\Desktop\RemoveSpaces\RemoveSpaces\obj\Debug\RemoveSpaces.exe
+C:\Users\AnilKumar\Desktop\RemoveSpaces\RemoveSpaces\obj\Debug\RemoveSpaces.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\RemoveSpaces\RemoveSpaces\bin\Debug\RemoveSpaces.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Strings\RemoveSpaces\RemoveSpaces\obj\Debug\RemoveSpaces.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\RemoveSpaces\RemoveSpaces\obj\Debug\RemoveSpaces.pdb

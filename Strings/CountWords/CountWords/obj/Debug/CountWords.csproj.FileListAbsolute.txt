@@ -1,0 +1,8 @@
+C:\Users\AnilKumar\Desktop\CountWords\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\AnilKumar\Desktop\CountWords\CountWords\bin\Debug\CountWords.exe
+C:\Users\AnilKumar\Desktop\CountWords\CountWords\bin\Debug\CountWords.pdb
+C:\Users\AnilKumar\Desktop\CountWords\CountWords\obj\Debug\CountWords.exe
+C:\Users\AnilKumar\Desktop\CountWords\CountWords\obj\Debug\CountWords.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\CountWords\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Strings\CountWords\CountWords\obj\Debug\CountWords.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\CountWords\CountWords\obj\Debug\CountWords.pdb

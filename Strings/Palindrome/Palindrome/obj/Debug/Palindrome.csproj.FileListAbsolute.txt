@@ -1,0 +1,8 @@
+C:\Users\AnilKumar\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\AnilKumar\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\AnilKumar\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\AnilKumar\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\AnilKumar\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\AnilKumar\Desktop\Coding\Strings\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Strings\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\AnilKumar\Desktop\Coding\Strings\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

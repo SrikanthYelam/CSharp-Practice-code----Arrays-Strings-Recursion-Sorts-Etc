@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Coding\Recursion\SumOfDigitsOfaNumber\SumOfDigitsOfaNumber\bin\Debug\SumOfDigitsOfaNumber.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Recursion\SumOfDigitsOfaNumber\SumOfDigitsOfaNumber\bin\Debug\SumOfDigitsOfaNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Recursion\SumOfDigitsOfaNumber\SumOfDigitsOfaNumber\bin\Debug\SumOfDigitsOfaNumber.pdb
+C:\Users\AnilKumar\Desktop\Coding\Recursion\SumOfDigitsOfaNumber\SumOfDigitsOfaNumber\obj\Debug\SumOfDigitsOfaNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Recursion\SumOfDigitsOfaNumber\SumOfDigitsOfaNumber\obj\Debug\SumOfDigitsOfaNumber.pdb

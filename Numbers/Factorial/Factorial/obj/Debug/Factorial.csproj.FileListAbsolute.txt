@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\Factorial\Factorial\obj\Debug\Factorial.pdb

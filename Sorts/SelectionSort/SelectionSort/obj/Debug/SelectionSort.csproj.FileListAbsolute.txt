@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Coding\Sorts\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Sorts\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\AnilKumar\Desktop\Coding\Sorts\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\AnilKumar\Desktop\Coding\Sorts\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\AnilKumar\Desktop\Coding\Sorts\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

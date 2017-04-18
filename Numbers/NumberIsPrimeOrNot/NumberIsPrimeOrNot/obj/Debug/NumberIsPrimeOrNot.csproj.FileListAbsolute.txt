@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\bin\Debug\NumberIsPrimeOrNot.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\bin\Debug\NumberIsPrimeOrNot.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\bin\Debug\NumberIsPrimeOrNot.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\obj\Debug\NumberIsPrimeOrNot.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\obj\Debug\NumberIsPrimeOrNot.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\NumberIsPrimeOrNot\NumberIsPrimeOrNot\obj\Debug\NumberIsPrimeOrNot.pdb

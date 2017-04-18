@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Coding\Arrays\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\MoveZerosToEnd.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Arrays\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\MoveZerosToEnd.exe
+C:\Users\AnilKumar\Desktop\Coding\Arrays\MoveZerosToEnd\MoveZerosToEnd\bin\Debug\MoveZerosToEnd.pdb
+C:\Users\AnilKumar\Desktop\Coding\Arrays\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\MoveZerosToEnd.exe
+C:\Users\AnilKumar\Desktop\Coding\Arrays\MoveZerosToEnd\MoveZerosToEnd\obj\Debug\MoveZerosToEnd.pdb

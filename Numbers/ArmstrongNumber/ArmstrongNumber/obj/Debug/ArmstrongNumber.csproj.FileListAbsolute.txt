@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb
+C:\Users\AnilKumar\Desktop\Coding\Numbers\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csprojResolveAssemblyReference.cache

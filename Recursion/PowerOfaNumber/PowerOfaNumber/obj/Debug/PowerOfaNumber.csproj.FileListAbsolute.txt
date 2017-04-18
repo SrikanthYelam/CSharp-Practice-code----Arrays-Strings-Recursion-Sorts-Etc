@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\bin\Debug\PowerOfaNumber.exe.config
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\bin\Debug\PowerOfaNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\bin\Debug\PowerOfaNumber.pdb
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\obj\Debug\PowerOfaNumber.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\obj\Debug\PowerOfaNumber.exe
+C:\Users\AnilKumar\Desktop\Coding\Recursion\PowerOfaNumber\PowerOfaNumber\obj\Debug\PowerOfaNumber.pdb
